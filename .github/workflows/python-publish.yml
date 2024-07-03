@@ -10,7 +10,7 @@ name: Webscrapy
 
 on:
   release: 0.1.0
-    types: [published]
+    types:
 
 permissions:
   contents: read
