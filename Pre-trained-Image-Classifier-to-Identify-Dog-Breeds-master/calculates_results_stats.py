@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/calculates_results_stats.py
 #                                                                             
-# PROGRAMMER: Annika Lisa Lang
-# DATE CREATED: 19.06.2020                                 
+# PROGRAMMER: Madhu Shree Aravindan
+# DATE CREATED: 24.07.2024                                
 # REVISED DATE: 
 # PURPOSE: Create a function calculates_results_stats that calculates the 
 #          statistics of the results of the programrun using the classifier's model 
